@@ -60,3 +60,7 @@ About
     margin-top: 20px;
     font-size: 30px;
 }
+
+#about .icon a{
+    color:darkred
+}
