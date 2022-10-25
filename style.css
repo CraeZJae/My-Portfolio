@@ -17,6 +17,19 @@ body{
     font-weight: bold;
 }
 
+p{
+    font-size: 14px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom:20px;
+}
+
+a.font-black{
+    color: black !important;
+}
 /*************
 
 About
