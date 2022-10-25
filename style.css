@@ -77,3 +77,18 @@ About
 #about .icon a{
     color:darkred
 }
+
+/****************
+
+Projects
+
+****************/
+
+#projects {
+    margin-top: 60px auto;
+    width:80% ;
+}
+
+#project h2 {
+    text-align: center;
+}
