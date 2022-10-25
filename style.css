@@ -84,12 +84,12 @@ Projects
 ******************/
 
 #projects {
-    margin-top: 60% auto;
-    width: 80%;
+    margin-top:60% auto;
+    width:80%;
 }
 
 #projects {
-    text-align: center;
+    text-align:center;
 }
 
 #projects .card img{
