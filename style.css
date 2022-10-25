@@ -80,15 +80,18 @@ About
 
 
 
+
 /*************************************
 
 Projects
 
 *************************************/
 
-
-
 #projects {
     margin-top: 60px auto;
-    max-width: 400px;
+    width: 80%;
+}
+
+#projects h2{
+    text-align: center;
 }
