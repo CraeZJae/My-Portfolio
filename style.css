@@ -29,6 +29,12 @@ About
     text-align: center;
 }
 
+#about img {
+    border-radius: 50%;
+    width: 120px;
+    margin-bottom: 10px;
+}
+
 #about .name {
     font-size: 19px;
 }
