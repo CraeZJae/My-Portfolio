@@ -89,5 +89,4 @@ Projects
 
 #projects {
     margin-top: 60% auto;
-    width: 80%;
-}
+    max-width: 80%;
