@@ -96,3 +96,6 @@ Projects
     width: 100%;
 }
 
+#projects .card-title{
+    font-weight: bold ;
+}
